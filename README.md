@@ -1,4 +1,4 @@
-# Tavuttaja a Finnish Hyphenation Plugin for WordPress
+# Tavutin a Finnish Hyphenation Plugin for WordPress
 Contributors: Roosa Virta
 Tags: hyphenation, plugin, WordPress, finnish
 Tested up to: 6.1
