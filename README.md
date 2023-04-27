@@ -6,7 +6,7 @@ Stable tag: 1.0.0
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Tavuttaja is a WordPress plugin that automatically adds soft hyphenation to Finnish text. It helps improve the readability of Finnish content by inserting soft hyphens (`&shy;`) at appropriate positions in words. The plugin works on post content, titles, and excerpts.
+Tavutin is a WordPress plugin that automatically adds soft hyphenation to Finnish text. It helps improve the readability of Finnish content by inserting soft hyphens (`&shy;`) at appropriate positions in words. The plugin works on post content, titles, and excerpts.
 
 ## Features
 
