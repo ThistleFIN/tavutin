@@ -161,7 +161,7 @@ class Tavuttaja
      * @param int $idx The index at which to add the hyphen.
      * @return false|string The hyphenated word if successful, false otherwise.
      */
-    private function add_hyphen(string $word, int $idx): false|string
+    private function add_hyphen(string $word, int $idx)
     {
         $first_part = mb_substr($word, 0, $idx);
         preg_match($this->regex_pattern_end, $first_part, $match);
